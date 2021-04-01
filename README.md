@@ -1,2 +1,2 @@
 # TimeApp
-Times which get Seconds to Minutes
+Time Conversion ...Seconds To Minutes
